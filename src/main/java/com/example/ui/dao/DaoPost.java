@@ -37,7 +37,7 @@ public class DaoPost {
 
 				});
 		ArrayList<VO> list1 = list.getBody();
-		Collections.reverse(list1);
+//		Collections.reverse(list1);
 		return list1;
 	}
 
@@ -52,7 +52,7 @@ public class DaoPost {
 
 				});
 		ArrayList<VO> list1 = list.getBody();
-		Collections.reverse(list1);
+//		Collections.reverse(list1);
 		return list1;
 	}
 //    public List<ResponseTemplateVO> getPostByUserId(Long userId);
